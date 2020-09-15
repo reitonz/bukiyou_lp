@@ -1,0 +1,250 @@
+@media screen and (max-width: 414px) {
+    .header-title {
+        width: 100%;
+    }
+
+    .icon {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+    }
+
+    .header-title-text h1 {
+        font-size: 17px;
+    }
+
+    .header-title-text h1 , .header-title-text p {
+        margin-top: 10px;
+    }
+
+
+    .header-menu {
+        display: none;
+    }
+
+    .header-menu2 {
+        display: block;
+        position: fixed;
+        z-index: 100;
+        top: -25px;
+        left: 100%;
+    }
+
+    #home h1 {
+        font-size: 21px;
+    }
+
+    #rei {
+        display: block;
+    }
+
+    .cre {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .get {
+        margin-left: 0;
+        margin-top: 20%;
+        width: 100%;
+    }
+
+    .cre dl dt {
+        width: 35%;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .profile-top {
+        display: block;
+    }
+        .profile-left {
+            width: 100%;
+        }
+        .profile-right {
+            width: 100%;
+            margin-top: 60px;
+        }
+
+    .person {
+        background-image: url(img/IMG_2220.jpg);
+        background-size: cover;
+        width: 12%;
+        padding: 4%;
+        margin: 5px;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    #schedule dl dt {
+        width: 36%;
+    }
+
+    .small-text {
+        font-size: 10px;
+    }
+
+    .intro-top {
+        display: block;
+    }
+
+    .intro-work {
+        width: 100%;
+    }
+
+    .intro-song {
+        width: 100%;
+        margin-bottom: 50px;
+        margin-left: 0;
+    }
+
+    .ggmap {
+        width: 100%;
+    }
+
+    #galley {
+        display: block;
+    }
+
+    .galley-left {
+        width: 100%;
+    }
+
+    .galley-right {
+        width: 100%;
+        margin: 0 auto;
+        margin-left: 0;
+    }
+
+    .first-name {
+        display: block;
+    }
+
+    .name p {
+        margin: 50px 0;
+    }
+
+    .access-top {
+        width: 95%;
+    }
+
+    .access-text {
+        width: 100%;
+    }
+
+    .ddd dd {
+        padding-left: 0;
+    }
+
+    .ddd img {
+        margin-left: 6%;
+    }
+
+    .galley-top {
+        width: 90%;
+    }
+
+    .galley-text {
+        display: block;
+    }
+
+    .galleys {
+        width: 100%;
+    }
+
+    .galley img {
+        max-width: 100%;
+    }
+
+    .galley p {
+        top: 86%;
+        padding-left: 37%;
+        padding-right: 36.4%;
+    }
+
+    .galley-moves {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .tyu {
+        text-align: center;
+    }
+
+    .move img {
+        max-width: 100%;
+    }
+
+    .help-top {
+        width: 90%;
+        margin-top: 20%;
+    }
+
+    .book textarea {
+        margin-left: 36%;
+    }
+
+    /* 作品紹介 */
+
+    .good {
+        display: block;
+    }
+
+    .vos {
+        width: 100%;
+    }
+
+    .vos2 {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .kura .kina{
+        margin-top: 20%;
+    }
+
+    /* メンバー */
+
+    .mao {
+        width: 90%;
+    }
+
+    .parson {
+        width: 47%;
+    }
+
+    /* 仏喜踊とは */
+
+    .why {
+        width: 90%;
+        display: block;
+    }
+
+    .what {
+        width: 95%;
+    }
+
+    .get2 {
+        width: 100%;
+    }
+
+    .why2 {
+        width: 75%;
+    }
+
+    .vbn {
+        width: 90%;
+    }
+
+    /* スケジュール */
+
+    .schedule-top {
+        width: 90%;
+    }
+
+    .schedule dl dt {
+        width: 35%;
+    }
+}
